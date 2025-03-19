@@ -96,7 +96,7 @@ La API estará disponible en:
 
 ## Autores
 
-- [Tu Nombre](https://github.com/jmsanzprieto)
+- [José Manuel Sanz](https://github.com/jmsanzprieto)
 
 
 
