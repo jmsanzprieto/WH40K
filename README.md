@@ -15,8 +15,8 @@ Antes de ejecutar la aplicación, asegúrate de tener instalados los siguientes 
 1. Clona este repositorio:
 
    ```sh
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
+   git clone https://github.com/jmsanzprieto/WH40k.git
+   cd WH40k
    ```
 
 2. Crea un entorno virtual y actívalo:
@@ -37,8 +37,8 @@ Antes de ejecutar la aplicación, asegúrate de tener instalados los siguientes 
 ```
 .
 ├── main.py          # Archivo principal de la API
-├── database.py      # Configuración de la conexión a MongoDB
-├── models.py        # Definición del modelo de datos con Pydantic
+├── conexiondb.py      # Configuración de la conexión a MongoDB
+├── model.py        # Definición del modelo de datos con Pydantic
 ├── requirements.txt # Lista de dependencias
 ├── README.md        # Documentación del proyecto
 ```
