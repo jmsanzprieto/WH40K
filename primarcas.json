@@ -1,0 +1,165 @@
+[
+    {
+        "ID": 1,
+        "nombre": "Lion El'Jonson",
+        "planeta_origen": "Caliban",
+        "legion": "Ángeles Oscuros",
+        "bando": "Leal",
+        "historia": "Desaparecido en la Roca; luchó contra Luther, su antiguo mentor.",
+        "emblema": "https://wh40k.lexicanum.com/mediawiki/images/2/25/Darkangelsymbol.png"
+    },
+    {
+        "ID": 2,
+        "nombre": "Fulgrim",
+        "planeta_origen": "Chemos",
+        "legion": "Hijos del Emperador",
+        "bando": "Traidor (Slaanesh)",
+        "historia": "Corrompido por un demonio; mató a Ferrus Manus en Istvaan V.",
+        "emblema": "https://wh40k.lexicanum.com/mediawiki/images/4/4b/Emperors_Children_Livery.png"
+    },
+    {
+        "ID": 3,
+        "nombre": "Perturabo",
+        "planeta_origen": "Olympia",
+        "legion": "Guerreros de Hierro",
+        "bando": "Traidor (Caos)",
+        "historia": "Maestro del asedio; destruyó su propio planeta natal.",
+        "emblema": "https://wh40k.lexicanum.com/mediawiki/images/6/6c/Ironwarriorsicon.JPG"
+    },
+    {
+        "ID": 4,
+        "nombre": "Jaghatai Khan",
+        "planeta_origen": "Mundus Planus",
+        "legion": "Cicatrices Blancas",
+        "bando": "Leal",
+        "historia": "Especialista en guerra relámpago; desapareció en la Telaraña.",
+        "emblema": "https://wh40k.lexicanum.com/mediawiki/images/5/5a/WhiteScarssymbol.png"
+    },
+    {
+        "ID": 5,
+        "nombre": "Leman Russ",
+        "planeta_origen": "Fenris",
+        "legion": "Lobos Espaciales",
+        "bando": "Leal",
+        "historia": "Enemigo de Magnus; desapareció buscando el 'Camino del Lobo'.",
+        "emblema": "https://wh40k.lexicanum.com/mediawiki/images/1/16/Spacewolvesymbol.png"
+    },
+    {
+        "ID": 6,
+        "nombre": "Rogal Dorn",
+        "planeta_origen": "Terra",
+        "legion": "Puños Imperiales",
+        "bando": "Leal",
+        "historia": "Defensor de Terra; se cree que murió en un abordaje.",
+        "emblema": "https://wh40k.lexicanum.com/mediawiki/images/6/68/IFsymbol.png"
+    },
+    {
+        "ID": 7,
+        "nombre": "Konrad Curze",
+        "planeta_origen": "Nostramo",
+        "legion": "Amos de la Noche",
+        "bando": "Traidor (Caos)",
+        "historia": "Asesinado por un asesino Callidus; tenía visiones del futuro.",
+        "emblema": "https://wh40k.lexicanum.com/mediawiki/images/5/5c/Night_Lords_Livery.png"
+    },
+    {
+        "ID": 8,
+        "nombre": "Sanguinius",
+        "planeta_origen": "Baal",
+        "legion": "Ángeles Sangrientos",
+        "bando": "Leal",
+        "historia": "Murió en combate contra Horus en la Herejía de Horus.",
+        "emblema": "https://wh40k.lexicanum.com/mediawiki/images/9/9a/Bloodangelsymbol.png"
+    },
+    {
+        "ID": 9,
+        "nombre": "Ferrus Manus",
+        "planeta_origen": "Medusa",
+        "legion": "Manos de Hierro",
+        "bando": "Leal",
+        "historia": "Decapitado por Fulgrim en Istvaan V.",
+        "emblema": "https://wh40k.lexicanum.com/mediawiki/images/4/4e/Iron_Hands_Livery.png"
+    },
+    {
+        "ID": 10,
+        "nombre": "Angron",
+        "planeta_origen": "Nuceria",
+        "legion": "Devoradores de Mundos",
+        "bando": "Traidor (Khorne)",
+        "historia": "Transformado en un Príncipe Demonio de Khorne.",
+        "emblema": "https://wh40k.lexicanum.com/mediawiki/images/2/2a/World_Eaters_Livery.png"
+    },
+    {
+        "ID": 11,
+        "nombre": "Roboute Guilliman",
+        "planeta_origen": "Macragge",
+        "legion": "Ultramarines",
+        "bando": "Leal",
+        "historia": "Herido por Fulgrim, pero resucitado en la era Indomitus.",
+        "emblema": "https://wh40k.lexicanum.com/mediawiki/images/7/70/Ultramarinesymbol.png"
+    },
+    {
+        "ID": 12,
+        "nombre": "Mortarion",
+        "planeta_origen": "Barbarus",
+        "legion": "Guardia de la Muerte",
+        "bando": "Traidor (Nurgle)",
+        "historia": "Convertido en un Príncipe Demonio de Nurgle.",
+        "emblema": "https://wh40k.lexicanum.com/mediawiki/images/9/9d/Death_Guard_Livery.png"
+    },
+    {
+        "ID": 13,
+        "nombre": "Magnus el Rojo",
+        "planeta_origen": "Prospero",
+        "legion": "Mil Hijos",
+        "bando": "Traidor (Tzeentch)",
+        "historia": "Traicionado por Horus; destruyó su planeta natal.",
+        "emblema": "https://wh40k.lexicanum.com/mediawiki/images/2/2a/Thousand_Sons_Livery.png"
+    },
+    {
+        "ID": 14,
+        "nombre": "Horus Lupercal",
+        "planeta_origen": "Cthonia",
+        "legion": "Luna Wolves / Hijos de Horus",
+        "bando": "Traidor",
+        "historia": "Derrotado por el Emperador en la Herejía de Horus.",
+        "emblema": "https://wh40k.lexicanum.com/mediawiki/images/7/7a/Sons_of_Horus_Livery.png"
+    },
+    {
+        "ID": 15,
+        "nombre": "Lorgar",
+        "planeta_origen": "Colchis",
+        "legion": "Portadores de la Palabra",
+        "bando": "Traidor (Caos)",
+        "historia": "Primer Primarca en abrazar al Caos, profeta del Dios de la Sangre.",
+        "emblema": "https://wh40k.lexicanum.com/mediawiki/images/4/49/Word_Bearers_Livery.png"
+    },
+    {
+        "ID": 16,
+        "nombre": "Vulkan",
+        "planeta_origen": "Nocturne",
+        "legion": "Salamandras",
+        "bando": "Leal",
+        "historia": "Desaparecido en combate; inmortal, según la leyenda.",
+        "emblema": "https://wh40k.lexicanum.com/mediawiki/images/3/32/Salamanders_Livery.png"
+    },
+    {
+        "ID": 17,
+        "nombre": "Corvus Corax",
+        "planeta_origen": "Deliverance",
+        "legion": "Guardianes de la Cuervo",
+        "bando": "Leal",
+        "historia": "Desapareció tras la Herejía buscando venganza contra los traidores.",
+        "emblema": "https://wh40k.lexicanum.com/mediawiki/images/5/57/Ravenguard_Livery.png"
+    },
+    {
+        "ID": 18,
+        "nombre": "Alpharius Omegon",
+        "planeta_origen": "Desconocido",
+        "legion": "Alpha Legion",
+        "bando": "Traidor",
+        "historia": "Se dice que Alpharius murió, pero nada es seguro con la Alpha Legion.",
+        "emblema": "https://wh40k.lexicanum.com/mediawiki/images/7/7d/Alpha_Legion_Livery.png"
+    }
+]
+
